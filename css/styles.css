@@ -72,6 +72,10 @@ header #branding h1{
   margin: 0;
 }
 
+.specific_a{
+  font-size: 2.2rem;
+}
+
 header nav{
   float: right;
   padding-top: 0.75rem;
