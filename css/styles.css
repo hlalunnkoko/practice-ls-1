@@ -96,6 +96,7 @@ header a:hover{
   text-align: left;
   min-height: 400px;
   background: url('../img/web-design-background.png') no-repeat 0 -75px;
+  background-image: cover;
   color: #31112c;
 }
 
